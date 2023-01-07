@@ -31,6 +31,7 @@ allprojects {
 Step 2. Add the dependency [![](https://jitpack.io/v/jiang111/IndicatorDialog.svg)](https://jitpack.io/#jiang111/IndicatorDialog)
 
 ```
+
 dependencies {
     compile 'com.github.jiang111:IndicatorDialog:2.1.0'
 }
